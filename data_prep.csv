@@ -1,4 +1,4 @@
-MRN,BIRADS,Imaging,Breast_density,Month_1,Month
+MRN,BIRADS,IMAGING,DENSITY,MONTH, MONTH_1
 1071783,6,Mammogram,B,10,Oct
 1148000,6,Mammogram,B,7,Jul
 1132113,6,Mammogram,B,2,Feb
